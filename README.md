@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arndey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arndey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ## 🔥 GitHub Streak
 
