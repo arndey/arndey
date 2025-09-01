@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Andrei Kostyuchenko
+# Hi there! 👋 I'm Andrei Kostiuchenko
 
 ## 💼 Currently Seeking New Opportunities
 
