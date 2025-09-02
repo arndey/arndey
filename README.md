@@ -10,8 +10,7 @@
 
 - 🏗️ Built **core banking systems from scratch**: end-to-end ownership of transactions service, PostgreSQL schema design, microservices architecture
 - 💳 **Payment & high-load services** expert: sagas, idempotency, PCI DSS/KYT compliance
-- 🔧 **Kotlin SDK development** and complex production integrations with resilience under load
-- 📈 Processed **~100k record batches** on private blockchain without performance degradation
+- 🔧 **Kotlin SDK development** and complex production integrations
 - 👨‍🏫 **Mentoring & leadership**: code reviews, system design, team guidance
 
 ## 🛠️ Tech Stack
